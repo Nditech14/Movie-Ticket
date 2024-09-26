@@ -1,0 +1,1446 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\GT-Project-Presentation-sms\\GtMovie-Ticket\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F51FA054-5662-4983-BEB3-2587E83C1313}|Application\\Application.csproj|c:\\users\\decagon l\\onedrive\\desktop\\gt-project-presentation-sms\\gtmovie-ticket\\application\\dto\\addtocartdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F51FA054-5662-4983-BEB3-2587E83C1313}|Application\\Application.csproj|solutionrelative:application\\dto\\addtocartdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F51FA054-5662-4983-BEB3-2587E83C1313}|Application\\Application.csproj|c:\\users\\decagon l\\onedrive\\desktop\\gt-project-presentation-sms\\gtmovie-ticket\\application\\service\\implementation\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F51FA054-5662-4983-BEB3-2587E83C1313}|Application\\Application.csproj|solutionrelative:application\\service\\implementation\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3BEAB41-DDC5-447C-9E37-05096F8F2112}|web\\web.csproj|c:\\users\\decagon l\\onedrive\\desktop\\gt-project-presentation-sms\\gtmovie-ticket\\web\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3BEAB41-DDC5-447C-9E37-05096F8F2112}|web\\web.csproj|solutionrelative:web\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36A5A3EC-FF23-430C-A0D6-7F114455AE4B}|TestProject\\TestProject.csproj|c:\\users\\decagon l\\onedrive\\desktop\\gt-project-presentation-sms\\gtmovie-ticket\\testproject\\actorservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36A5A3EC-FF23-430C-A0D6-7F114455AE4B}|TestProject\\TestProject.csproj|solutionrelative:testproject\\actorservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3BEAB41-DDC5-447C-9E37-05096F8F2112}|web\\web.csproj|c:\\users\\decagon l\\onedrive\\desktop\\gt-project-presentation-sms\\gtmovie-ticket\\web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B3BEAB41-DDC5-447C-9E37-05096F8F2112}|web\\web.csproj|solutionrelative:web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3BEAB41-DDC5-447C-9E37-05096F8F2112}|web\\web.csproj|c:\\users\\decagon l\\onedrive\\desktop\\gt-project-presentation-sms\\gtmovie-ticket\\web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3BEAB41-DDC5-447C-9E37-05096F8F2112}|web\\web.csproj|solutionrelative:web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3BEAB41-DDC5-447C-9E37-05096F8F2112}|web\\web.csproj|c:\\users\\decagon l\\onedrive\\desktop\\gt-project-presentation-sms\\gtmovie-ticket\\web\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3BEAB41-DDC5-447C-9E37-05096F8F2112}|web\\web.csproj|solutionrelative:web\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F51FA054-5662-4983-BEB3-2587E83C1313}|Application\\Application.csproj|c:\\users\\decagon l\\onedrive\\desktop\\gt-project-presentation-sms\\gtmovie-ticket\\application\\dto\\moviedtoz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F51FA054-5662-4983-BEB3-2587E83C1313}|Application\\Application.csproj|solutionrelative:application\\dto\\moviedtoz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0778E158-A0E8-47C9-B1EE-0BF8EF736F15}|Core\\Core.csproj|c:\\users\\decagon l\\onedrive\\desktop\\gt-project-presentation-sms\\gtmovie-ticket\\core\\implementation\\cosmosdbrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0778E158-A0E8-47C9-B1EE-0BF8EF736F15}|Core\\Core.csproj|solutionrelative:core\\implementation\\cosmosdbrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F51FA054-5662-4983-BEB3-2587E83C1313}|Application\\Application.csproj|c:\\users\\decagon l\\onedrive\\desktop\\gt-project-presentation-sms\\gtmovie-ticket\\application\\service\\implementation\\cosmosdbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F51FA054-5662-4983-BEB3-2587E83C1313}|Application\\Application.csproj|solutionrelative:application\\service\\implementation\\cosmosdbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0778E158-A0E8-47C9-B1EE-0BF8EF736F15}|Core\\Core.csproj|c:\\users\\decagon l\\onedrive\\desktop\\gt-project-presentation-sms\\gtmovie-ticket\\core\\entities\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0778E158-A0E8-47C9-B1EE-0BF8EF736F15}|Core\\Core.csproj|solutionrelative:core\\entities\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F51FA054-5662-4983-BEB3-2587E83C1313}|Application\\Application.csproj|c:\\users\\decagon l\\onedrive\\desktop\\gt-project-presentation-sms\\gtmovie-ticket\\application\\dto\\moviedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F51FA054-5662-4983-BEB3-2587E83C1313}|Application\\Application.csproj|solutionrelative:application\\dto\\moviedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F51FA054-5662-4983-BEB3-2587E83C1313}|Application\\Application.csproj|c:\\users\\decagon l\\onedrive\\desktop\\gt-project-presentation-sms\\gtmovie-ticket\\application\\dto\\moviecreationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F51FA054-5662-4983-BEB3-2587E83C1313}|Application\\Application.csproj|solutionrelative:application\\dto\\moviecreationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3BEAB41-DDC5-447C-9E37-05096F8F2112}|web\\web.csproj|c:\\users\\decagon l\\onedrive\\desktop\\gt-project-presentation-sms\\gtmovie-ticket\\web\\controllers\\cinemacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3BEAB41-DDC5-447C-9E37-05096F8F2112}|web\\web.csproj|solutionrelative:web\\controllers\\cinemacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F51FA054-5662-4983-BEB3-2587E83C1313}|Application\\Application.csproj|c:\\users\\decagon l\\onedrive\\desktop\\gt-project-presentation-sms\\gtmovie-ticket\\application\\dto\\updatemoviestatusdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F51FA054-5662-4983-BEB3-2587E83C1313}|Application\\Application.csproj|solutionrelative:application\\dto\\updatemoviestatusdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F51FA054-5662-4983-BEB3-2587E83C1313}|Application\\Application.csproj|c:\\users\\decagon l\\onedrive\\desktop\\gt-project-presentation-sms\\gtmovie-ticket\\application\\dto\\updatemoviedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F51FA054-5662-4983-BEB3-2587E83C1313}|Application\\Application.csproj|solutionrelative:application\\dto\\updatemoviedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F51FA054-5662-4983-BEB3-2587E83C1313}|Application\\Application.csproj|c:\\users\\decagon l\\onedrive\\desktop\\gt-project-presentation-sms\\gtmovie-ticket\\application\\dto\\movieimageuploaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F51FA054-5662-4983-BEB3-2587E83C1313}|Application\\Application.csproj|solutionrelative:application\\dto\\movieimageuploaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F51FA054-5662-4983-BEB3-2587E83C1313}|Application\\Application.csproj|c:\\users\\decagon l\\onedrive\\desktop\\gt-project-presentation-sms\\gtmovie-ticket\\application\\service\\implementation\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F51FA054-5662-4983-BEB3-2587E83C1313}|Application\\Application.csproj|solutionrelative:application\\service\\implementation\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0778E158-A0E8-47C9-B1EE-0BF8EF736F15}|Core\\Core.csproj|c:\\users\\decagon l\\onedrive\\desktop\\gt-project-presentation-sms\\gtmovie-ticket\\core\\entities\\paystackresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0778E158-A0E8-47C9-B1EE-0BF8EF736F15}|Core\\Core.csproj|solutionrelative:core\\entities\\paystackresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F51FA054-5662-4983-BEB3-2587E83C1313}|Application\\Application.csproj|c:\\users\\decagon l\\onedrive\\desktop\\gt-project-presentation-sms\\gtmovie-ticket\\application\\service\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F51FA054-5662-4983-BEB3-2587E83C1313}|Application\\Application.csproj|solutionrelative:application\\service\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0778E158-A0E8-47C9-B1EE-0BF8EF736F15}|Core\\Core.csproj|c:\\users\\decagon l\\onedrive\\desktop\\gt-project-presentation-sms\\gtmovie-ticket\\core\\entities\\paystackdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0778E158-A0E8-47C9-B1EE-0BF8EF736F15}|Core\\Core.csproj|solutionrelative:core\\entities\\paystackdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0778E158-A0E8-47C9-B1EE-0BF8EF736F15}|Core\\Core.csproj|c:\\users\\decagon l\\onedrive\\desktop\\gt-project-presentation-sms\\gtmovie-ticket\\core\\entities\\paymentresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0778E158-A0E8-47C9-B1EE-0BF8EF736F15}|Core\\Core.csproj|solutionrelative:core\\entities\\paymentresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0778E158-A0E8-47C9-B1EE-0BF8EF736F15}|Core\\Core.csproj|c:\\users\\decagon l\\onedrive\\desktop\\gt-project-presentation-sms\\gtmovie-ticket\\core\\entities\\movieinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0778E158-A0E8-47C9-B1EE-0BF8EF736F15}|Core\\Core.csproj|solutionrelative:core\\entities\\movieinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F51FA054-5662-4983-BEB3-2587E83C1313}|Application\\Application.csproj|c:\\users\\decagon l\\onedrive\\desktop\\gt-project-presentation-sms\\gtmovie-ticket\\application\\service\\implementation\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F51FA054-5662-4983-BEB3-2587E83C1313}|Application\\Application.csproj|solutionrelative:application\\service\\implementation\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3BEAB41-DDC5-447C-9E37-05096F8F2112}|web\\web.csproj|c:\\users\\decagon l\\onedrive\\desktop\\gt-project-presentation-sms\\gtmovie-ticket\\web\\extension\\extensionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3BEAB41-DDC5-447C-9E37-05096F8F2112}|web\\web.csproj|solutionrelative:web\\extension\\extensionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F51FA054-5662-4983-BEB3-2587E83C1313}|Application\\Application.csproj|c:\\users\\decagon l\\onedrive\\desktop\\gt-project-presentation-sms\\gtmovie-ticket\\application\\service\\paystacksettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F51FA054-5662-4983-BEB3-2587E83C1313}|Application\\Application.csproj|solutionrelative:application\\service\\paystacksettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3BEAB41-DDC5-447C-9E37-05096F8F2112}|web\\web.csproj|c:\\users\\decagon l\\onedrive\\desktop\\gt-project-presentation-sms\\gtmovie-ticket\\web\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3BEAB41-DDC5-447C-9E37-05096F8F2112}|web\\web.csproj|solutionrelative:web\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3BEAB41-DDC5-447C-9E37-05096F8F2112}|web\\web.csproj|c:\\users\\decagon l\\onedrive\\desktop\\gt-project-presentation-sms\\gtmovie-ticket\\web\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B3BEAB41-DDC5-447C-9E37-05096F8F2112}|web\\web.csproj|solutionrelative:web\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0778E158-A0E8-47C9-B1EE-0BF8EF736F15}|Core\\Core.csproj|c:\\users\\decagon l\\onedrive\\desktop\\gt-project-presentation-sms\\gtmovie-ticket\\core\\core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0778E158-A0E8-47C9-B1EE-0BF8EF736F15}|Core\\Core.csproj|solutionrelative:core\\core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3BEAB41-DDC5-447C-9E37-05096F8F2112}|web\\web.csproj|c:\\users\\decagon l\\onedrive\\desktop\\gt-project-presentation-sms\\gtmovie-ticket\\web\\middleware\\userclaimsmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3BEAB41-DDC5-447C-9E37-05096F8F2112}|web\\web.csproj|solutionrelative:web\\middleware\\userclaimsmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F51FA054-5662-4983-BEB3-2587E83C1313}|Application\\Application.csproj|c:\\users\\decagon l\\onedrive\\desktop\\gt-project-presentation-sms\\gtmovie-ticket\\application\\responsedto\\cartresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F51FA054-5662-4983-BEB3-2587E83C1313}|Application\\Application.csproj|solutionrelative:application\\responsedto\\cartresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0778E158-A0E8-47C9-B1EE-0BF8EF736F15}|Core\\Core.csproj|c:\\users\\decagon l\\onedrive\\desktop\\gt-project-presentation-sms\\gtmovie-ticket\\core\\entities\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0778E158-A0E8-47C9-B1EE-0BF8EF736F15}|Core\\Core.csproj|solutionrelative:core\\entities\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F51FA054-5662-4983-BEB3-2587E83C1313}|Application\\Application.csproj|c:\\users\\decagon l\\onedrive\\desktop\\gt-project-presentation-sms\\gtmovie-ticket\\application\\service\\implementation\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F51FA054-5662-4983-BEB3-2587E83C1313}|Application\\Application.csproj|solutionrelative:application\\service\\implementation\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0778E158-A0E8-47C9-B1EE-0BF8EF736F15}|Core\\Core.csproj|c:\\users\\decagon l\\onedrive\\desktop\\gt-project-presentation-sms\\gtmovie-ticket\\core\\entities\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0778E158-A0E8-47C9-B1EE-0BF8EF736F15}|Core\\Core.csproj|solutionrelative:core\\entities\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F51FA054-5662-4983-BEB3-2587E83C1313}|Application\\Application.csproj|c:\\users\\decagon l\\onedrive\\desktop\\gt-project-presentation-sms\\gtmovie-ticket\\application\\dto\\cartitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F51FA054-5662-4983-BEB3-2587E83C1313}|Application\\Application.csproj|solutionrelative:application\\dto\\cartitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0778E158-A0E8-47C9-B1EE-0BF8EF736F15}|Core\\Core.csproj|c:\\users\\decagon l\\onedrive\\desktop\\gt-project-presentation-sms\\gtmovie-ticket\\core\\entities\\ticketpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0778E158-A0E8-47C9-B1EE-0BF8EF736F15}|Core\\Core.csproj|solutionrelative:core\\entities\\ticketpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3BEAB41-DDC5-447C-9E37-05096F8F2112}|web\\web.csproj|c:\\users\\decagon l\\onedrive\\desktop\\gt-project-presentation-sms\\gtmovie-ticket\\web\\controllers\\actorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3BEAB41-DDC5-447C-9E37-05096F8F2112}|web\\web.csproj|solutionrelative:web\\controllers\\actorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F51FA054-5662-4983-BEB3-2587E83C1313}|Application\\Application.csproj|c:\\users\\decagon l\\onedrive\\desktop\\gt-project-presentation-sms\\gtmovie-ticket\\application\\dto\\actordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F51FA054-5662-4983-BEB3-2587E83C1313}|Application\\Application.csproj|solutionrelative:application\\dto\\actordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F51FA054-5662-4983-BEB3-2587E83C1313}|Application\\Application.csproj|c:\\users\\decagon l\\onedrive\\desktop\\gt-project-presentation-sms\\gtmovie-ticket\\application\\dto\\actordtoz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F51FA054-5662-4983-BEB3-2587E83C1313}|Application\\Application.csproj|solutionrelative:application\\dto\\actordtoz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0C7A54C-8AF3-488D-BFC4-14F010EDA67A}|Infrastructure\\Infrastructure.csproj|c:\\users\\decagon l\\onedrive\\desktop\\gt-project-presentation-sms\\gtmovie-ticket\\infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A0C7A54C-8AF3-488D-BFC4-14F010EDA67A}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0778E158-A0E8-47C9-B1EE-0BF8EF736F15}|Core\\Core.csproj|c:\\users\\decagon l\\onedrive\\desktop\\gt-project-presentation-sms\\gtmovie-ticket\\core\\enum\\paymentmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0778E158-A0E8-47C9-B1EE-0BF8EF736F15}|Core\\Core.csproj|solutionrelative:core\\enum\\paymentmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36A5A3EC-FF23-430C-A0D6-7F114455AE4B}|TestProject\\TestProject.csproj|c:\\users\\decagon l\\onedrive\\desktop\\gt-project-presentation-sms\\gtmovie-ticket\\testproject\\producerservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36A5A3EC-FF23-430C-A0D6-7F114455AE4B}|TestProject\\TestProject.csproj|solutionrelative:testproject\\producerservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F51FA054-5662-4983-BEB3-2587E83C1313}|Application\\Application.csproj|c:\\users\\decagon l\\onedrive\\desktop\\gt-project-presentation-sms\\gtmovie-ticket\\application\\service\\implementation\\producerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F51FA054-5662-4983-BEB3-2587E83C1313}|Application\\Application.csproj|solutionrelative:application\\service\\implementation\\producerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F51FA054-5662-4983-BEB3-2587E83C1313}|Application\\Application.csproj|c:\\users\\decagon l\\onedrive\\desktop\\gt-project-presentation-sms\\gtmovie-ticket\\application\\service\\abstraction\\icosmosdbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F51FA054-5662-4983-BEB3-2587E83C1313}|Application\\Application.csproj|solutionrelative:application\\service\\abstraction\\icosmosdbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36A5A3EC-FF23-430C-A0D6-7F114455AE4B}|TestProject\\TestProject.csproj|c:\\users\\decagon l\\onedrive\\desktop\\gt-project-presentation-sms\\gtmovie-ticket\\testproject\\cinemaservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36A5A3EC-FF23-430C-A0D6-7F114455AE4B}|TestProject\\TestProject.csproj|solutionrelative:testproject\\cinemaservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F51FA054-5662-4983-BEB3-2587E83C1313}|Application\\Application.csproj|c:\\users\\decagon l\\onedrive\\desktop\\gt-project-presentation-sms\\gtmovie-ticket\\application\\service\\implementation\\actorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F51FA054-5662-4983-BEB3-2587E83C1313}|Application\\Application.csproj|solutionrelative:application\\service\\implementation\\actorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36A5A3EC-FF23-430C-A0D6-7F114455AE4B}|TestProject\\TestProject.csproj|c:\\users\\decagon l\\onedrive\\desktop\\gt-project-presentation-sms\\gtmovie-ticket\\testproject\\movieservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36A5A3EC-FF23-430C-A0D6-7F114455AE4B}|TestProject\\TestProject.csproj|solutionrelative:testproject\\movieservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F51FA054-5662-4983-BEB3-2587E83C1313}|Application\\Application.csproj|c:\\users\\decagon l\\onedrive\\desktop\\gt-project-presentation-sms\\gtmovie-ticket\\application\\service\\implementation\\cinemaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F51FA054-5662-4983-BEB3-2587E83C1313}|Application\\Application.csproj|solutionrelative:application\\service\\implementation\\cinemaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F51FA054-5662-4983-BEB3-2587E83C1313}|Application\\Application.csproj|c:\\users\\decagon l\\onedrive\\desktop\\gt-project-presentation-sms\\gtmovie-ticket\\application\\service\\implementation\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F51FA054-5662-4983-BEB3-2587E83C1313}|Application\\Application.csproj|solutionrelative:application\\service\\implementation\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0778E158-A0E8-47C9-B1EE-0BF8EF736F15}|Core\\Core.csproj|c:\\users\\decagon l\\onedrive\\desktop\\gt-project-presentation-sms\\gtmovie-ticket\\core\\enum\\moviestatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0778E158-A0E8-47C9-B1EE-0BF8EF736F15}|Core\\Core.csproj|solutionrelative:core\\enum\\moviestatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3BEAB41-DDC5-447C-9E37-05096F8F2112}|web\\web.csproj|c:\\users\\decagon l\\onedrive\\desktop\\gt-project-presentation-sms\\gtmovie-ticket\\web\\controllers\\producercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3BEAB41-DDC5-447C-9E37-05096F8F2112}|web\\web.csproj|solutionrelative:web\\controllers\\producercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F51FA054-5662-4983-BEB3-2587E83C1313}|Application\\Application.csproj|c:\\users\\decagon l\\onedrive\\desktop\\gt-project-presentation-sms\\gtmovie-ticket\\application\\responsedto\\movieresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F51FA054-5662-4983-BEB3-2587E83C1313}|Application\\Application.csproj|solutionrelative:application\\responsedto\\movieresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0778E158-A0E8-47C9-B1EE-0BF8EF736F15}|Core\\Core.csproj|c:\\users\\decagon l\\onedrive\\desktop\\gt-project-presentation-sms\\gtmovie-ticket\\core\\entities\\cinema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0778E158-A0E8-47C9-B1EE-0BF8EF736F15}|Core\\Core.csproj|solutionrelative:core\\entities\\cinema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0778E158-A0E8-47C9-B1EE-0BF8EF736F15}|Core\\Core.csproj|c:\\users\\decagon l\\onedrive\\desktop\\gt-project-presentation-sms\\gtmovie-ticket\\core\\entities\\actor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0778E158-A0E8-47C9-B1EE-0BF8EF736F15}|Core\\Core.csproj|solutionrelative:core\\entities\\actor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F51FA054-5662-4983-BEB3-2587E83C1313}|Application\\Application.csproj|c:\\users\\decagon l\\onedrive\\desktop\\gt-project-presentation-sms\\gtmovie-ticket\\application\\dto\\producerdtoz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F51FA054-5662-4983-BEB3-2587E83C1313}|Application\\Application.csproj|solutionrelative:application\\dto\\producerdtoz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F51FA054-5662-4983-BEB3-2587E83C1313}|Application\\Application.csproj|c:\\users\\decagon l\\onedrive\\desktop\\gt-project-presentation-sms\\gtmovie-ticket\\application\\dto\\cinemadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F51FA054-5662-4983-BEB3-2587E83C1313}|Application\\Application.csproj|solutionrelative:application\\dto\\cinemadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F51FA054-5662-4983-BEB3-2587E83C1313}|Application\\Application.csproj|c:\\users\\decagon l\\onedrive\\desktop\\gt-project-presentation-sms\\gtmovie-ticket\\application\\service\\abstraction\\iactorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F51FA054-5662-4983-BEB3-2587E83C1313}|Application\\Application.csproj|solutionrelative:application\\service\\abstraction\\iactorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F51FA054-5662-4983-BEB3-2587E83C1313}|Application\\Application.csproj|c:\\users\\decagon l\\onedrive\\desktop\\gt-project-presentation-sms\\gtmovie-ticket\\application\\service\\abstraction\\iproducerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F51FA054-5662-4983-BEB3-2587E83C1313}|Application\\Application.csproj|solutionrelative:application\\service\\abstraction\\iproducerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F51FA054-5662-4983-BEB3-2587E83C1313}|Application\\Application.csproj|c:\\users\\decagon l\\onedrive\\desktop\\gt-project-presentation-sms\\gtmovie-ticket\\application\\dto\\actorupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F51FA054-5662-4983-BEB3-2587E83C1313}|Application\\Application.csproj|solutionrelative:application\\dto\\actorupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F51FA054-5662-4983-BEB3-2587E83C1313}|Application\\Application.csproj|c:\\users\\decagon l\\onedrive\\desktop\\gt-project-presentation-sms\\gtmovie-ticket\\application\\dto\\updateproducerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F51FA054-5662-4983-BEB3-2587E83C1313}|Application\\Application.csproj|solutionrelative:application\\dto\\updateproducerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F51FA054-5662-4983-BEB3-2587E83C1313}|Application\\Application.csproj|c:\\users\\decagon l\\onedrive\\desktop\\gt-project-presentation-sms\\gtmovie-ticket\\application\\dto\\producerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F51FA054-5662-4983-BEB3-2587E83C1313}|Application\\Application.csproj|solutionrelative:application\\dto\\producerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F51FA054-5662-4983-BEB3-2587E83C1313}|Application\\Application.csproj|c:\\users\\decagon l\\onedrive\\desktop\\gt-project-presentation-sms\\gtmovie-ticket\\application\\responsedto\\responsemoviesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F51FA054-5662-4983-BEB3-2587E83C1313}|Application\\Application.csproj|solutionrelative:application\\responsedto\\responsemoviesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F51FA054-5662-4983-BEB3-2587E83C1313}|Application\\Application.csproj|c:\\users\\decagon l\\onedrive\\desktop\\gt-project-presentation-sms\\gtmovie-ticket\\application\\responsedto\\producerresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F51FA054-5662-4983-BEB3-2587E83C1313}|Application\\Application.csproj|solutionrelative:application\\responsedto\\producerresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0778E158-A0E8-47C9-B1EE-0BF8EF736F15}|Core\\Core.csproj|c:\\users\\decagon l\\onedrive\\desktop\\gt-project-presentation-sms\\gtmovie-ticket\\core\\entities\\producer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0778E158-A0E8-47C9-B1EE-0BF8EF736F15}|Core\\Core.csproj|solutionrelative:core\\entities\\producer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F51FA054-5662-4983-BEB3-2587E83C1313}|Application\\Application.csproj|c:\\users\\decagon l\\onedrive\\desktop\\gt-project-presentation-sms\\gtmovie-ticket\\application\\responsedto\\actorresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F51FA054-5662-4983-BEB3-2587E83C1313}|Application\\Application.csproj|solutionrelative:application\\responsedto\\actorresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0778E158-A0E8-47C9-B1EE-0BF8EF736F15}|Core\\Core.csproj|c:\\users\\decagon l\\onedrive\\desktop\\gt-project-presentation-sms\\gtmovie-ticket\\core\\entities\\fileentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0778E158-A0E8-47C9-B1EE-0BF8EF736F15}|Core\\Core.csproj|solutionrelative:core\\entities\\fileentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F51FA054-5662-4983-BEB3-2587E83C1313}|Application\\Application.csproj|c:\\users\\decagon l\\onedrive\\desktop\\gt-project-presentation-sms\\gtmovie-ticket\\application\\responsedto\\cinemaresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F51FA054-5662-4983-BEB3-2587E83C1313}|Application\\Application.csproj|solutionrelative:application\\responsedto\\cinemaresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0778E158-A0E8-47C9-B1EE-0BF8EF736F15}|Core\\Core.csproj|c:\\users\\decagon l\\onedrive\\desktop\\gt-project-presentation-sms\\gtmovie-ticket\\core\\entities\\ticketpurchase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0778E158-A0E8-47C9-B1EE-0BF8EF736F15}|Core\\Core.csproj|solutionrelative:core\\entities\\ticketpurchase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3BEAB41-DDC5-447C-9E37-05096F8F2112}|web\\web.csproj|c:\\users\\decagon l\\onedrive\\desktop\\gt-project-presentation-sms\\gtmovie-ticket\\web\\middleware\\userinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3BEAB41-DDC5-447C-9E37-05096F8F2112}|web\\web.csproj|solutionrelative:web\\middleware\\userinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3BEAB41-DDC5-447C-9E37-05096F8F2112}|web\\web.csproj|c:\\users\\decagon l\\onedrive\\desktop\\gt-project-presentation-sms\\gtmovie-ticket\\web\\enumschemafilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3BEAB41-DDC5-447C-9E37-05096F8F2112}|web\\web.csproj|solutionrelative:web\\enumschemafilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0778E158-A0E8-47C9-B1EE-0BF8EF736F15}|Core\\Core.csproj|c:\\users\\decagon l\\onedrive\\desktop\\gt-project-presentation-sms\\gtmovie-ticket\\core\\enum\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0778E158-A0E8-47C9-B1EE-0BF8EF736F15}|Core\\Core.csproj|solutionrelative:core\\enum\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3BEAB41-DDC5-447C-9E37-05096F8F2112}|web\\web.csproj|c:\\users\\decagon l\\onedrive\\desktop\\gt-project-presentation-sms\\gtmovie-ticket\\web\\controllers\\filecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3BEAB41-DDC5-447C-9E37-05096F8F2112}|web\\web.csproj|solutionrelative:web\\controllers\\filecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F51FA054-5662-4983-BEB3-2587E83C1313}|Application\\Application.csproj|c:\\users\\decagon l\\onedrive\\desktop\\gt-project-presentation-sms\\gtmovie-ticket\\application\\dto\\fileentitydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F51FA054-5662-4983-BEB3-2587E83C1313}|Application\\Application.csproj|solutionrelative:application\\dto\\fileentitydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0C7A54C-8AF3-488D-BFC4-14F010EDA67A}|Infrastructure\\Infrastructure.csproj|c:\\users\\decagon l\\onedrive\\desktop\\gt-project-presentation-sms\\gtmovie-ticket\\infrastructure\\adls\\configuration\\azuredatalakefilerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0C7A54C-8AF3-488D-BFC4-14F010EDA67A}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\adls\\configuration\\azuredatalakefilerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3BEAB41-DDC5-447C-9E37-05096F8F2112}|web\\web.csproj|c:\\users\\decagon l\\onedrive\\desktop\\gt-project-presentation-sms\\gtmovie-ticket\\web\\extension\\datalakeextension\\datalakeserviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3BEAB41-DDC5-447C-9E37-05096F8F2112}|web\\web.csproj|solutionrelative:web\\extension\\datalakeextension\\datalakeserviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0C7A54C-8AF3-488D-BFC4-14F010EDA67A}|Infrastructure\\Infrastructure.csproj|c:\\users\\decagon l\\onedrive\\desktop\\gt-project-presentation-sms\\gtmovie-ticket\\infrastructure\\abstraction\\ifilerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0C7A54C-8AF3-488D-BFC4-14F010EDA67A}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\abstraction\\ifilerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3BEAB41-DDC5-447C-9E37-05096F8F2112}|web\\web.csproj|c:\\users\\decagon l\\onedrive\\desktop\\gt-project-presentation-sms\\gtmovie-ticket\\web\\cosmosfig\\cosmosdbsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3BEAB41-DDC5-447C-9E37-05096F8F2112}|web\\web.csproj|solutionrelative:web\\cosmosfig\\cosmosdbsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3BEAB41-DDC5-447C-9E37-05096F8F2112}|web\\web.csproj|c:\\users\\decagon l\\onedrive\\desktop\\gt-project-presentation-sms\\gtmovie-ticket\\web\\cosmosfig\\cosmosdbcontainers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3BEAB41-DDC5-447C-9E37-05096F8F2112}|web\\web.csproj|solutionrelative:web\\cosmosfig\\cosmosdbcontainers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0C7A54C-8AF3-488D-BFC4-14F010EDA67A}|Infrastructure\\Infrastructure.csproj|c:\\users\\decagon l\\onedrive\\desktop\\gt-project-presentation-sms\\gtmovie-ticket\\infrastructure\\cosmosfig\\cosmosdbsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0C7A54C-8AF3-488D-BFC4-14F010EDA67A}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\cosmosfig\\cosmosdbsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0C7A54C-8AF3-488D-BFC4-14F010EDA67A}|Infrastructure\\Infrastructure.csproj|c:\\users\\decagon l\\onedrive\\desktop\\gt-project-presentation-sms\\gtmovie-ticket\\infrastructure\\cosmosfig\\cosmosdbcontainers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0C7A54C-8AF3-488D-BFC4-14F010EDA67A}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\cosmosfig\\cosmosdbcontainers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3BEAB41-DDC5-447C-9E37-05096F8F2112}|web\\web.csproj|c:\\users\\decagon l\\onedrive\\desktop\\gt-project-presentation-sms\\gtmovie-ticket\\web\\properties\\servicedependencies.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B3BEAB41-DDC5-447C-9E37-05096F8F2112}|web\\web.csproj|solutionrelative:web\\properties\\servicedependencies.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3BEAB41-DDC5-447C-9E37-05096F8F2112}|web\\web.csproj|c:\\users\\decagon l\\onedrive\\desktop\\gt-project-presentation-sms\\gtmovie-ticket\\web\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B3BEAB41-DDC5-447C-9E37-05096F8F2112}|web\\web.csproj|solutionrelative:web\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3BEAB41-DDC5-447C-9E37-05096F8F2112}|web\\web.csproj|c:\\users\\decagon l\\onedrive\\desktop\\gt-project-presentation-sms\\gtmovie-ticket\\web\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3BEAB41-DDC5-447C-9E37-05096F8F2112}|web\\web.csproj|solutionrelative:web\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0C7A54C-8AF3-488D-BFC4-14F010EDA67A}|Infrastructure\\Infrastructure.csproj|c:\\users\\decagon l\\onedrive\\desktop\\gt-project-presentation-sms\\gtmovie-ticket\\infrastructure\\adls\\configuration\\storagesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0C7A54C-8AF3-488D-BFC4-14F010EDA67A}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\adls\\configuration\\storagesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0778E158-A0E8-47C9-B1EE-0BF8EF736F15}|Core\\Core.csproj|c:\\users\\decagon l\\onedrive\\desktop\\gt-project-presentation-sms\\gtmovie-ticket\\core\\enum\\paymentstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0778E158-A0E8-47C9-B1EE-0BF8EF736F15}|Core\\Core.csproj|solutionrelative:core\\enum\\paymentstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 16,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\GT-Project-Presentation-sms\\GtMovie-Ticket\\Application\\Service\\Implementation\\EmailService.cs",
+              "RelativeDocumentMoniker": "Application\\Service\\Implementation\\EmailService.cs",
+              "ToolTip": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\GT-Project-Presentation-sms\\GtMovie-Ticket\\Application\\Service\\Implementation\\EmailService.cs",
+              "RelativeToolTip": "Application\\Service\\Implementation\\EmailService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T10:53:29.139Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1608089412:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MovieService.cs",
+              "DocumentMoniker": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\GT-Project-Presentation-sms\\GtMovie-Ticket\\Application\\Service\\Implementation\\MovieService.cs",
+              "RelativeDocumentMoniker": "Application\\Service\\Implementation\\MovieService.cs",
+              "ToolTip": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\GT-Project-Presentation-sms\\GtMovie-Ticket\\Application\\Service\\Implementation\\MovieService.cs",
+              "RelativeToolTip": "Application\\Service\\Implementation\\MovieService.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAowCQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T14:17:00.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MovieController.cs",
+              "DocumentMoniker": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\GT-Project-Presentation-sms\\GtMovie-Ticket\\web\\Controllers\\MovieController.cs",
+              "RelativeDocumentMoniker": "web\\Controllers\\MovieController.cs",
+              "ToolTip": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\GT-Project-Presentation-sms\\GtMovie-Ticket\\web\\Controllers\\MovieController.cs",
+              "RelativeToolTip": "web\\Controllers\\MovieController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T09:17:58.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MovieDtoz.cs",
+              "DocumentMoniker": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\GT-Project-Presentation-sms\\GtMovie-Ticket\\Application\\Dto\\MovieDtoz.cs",
+              "RelativeDocumentMoniker": "Application\\Dto\\MovieDtoz.cs",
+              "ToolTip": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\GT-Project-Presentation-sms\\GtMovie-Ticket\\Application\\Dto\\MovieDtoz.cs",
+              "RelativeToolTip": "Application\\Dto\\MovieDtoz.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAqwA8AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T20:22:23.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\GT-Project-Presentation-sms\\GtMovie-Ticket\\web\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "web\\Controllers\\CartController.cs",
+              "ToolTip": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\GT-Project-Presentation-sms\\GtMovie-Ticket\\web\\Controllers\\CartController.cs",
+              "RelativeToolTip": "web\\Controllers\\CartController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T18:12:19.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\GT-Project-Presentation-sms\\GtMovie-Ticket\\web\\Program.cs",
+              "RelativeDocumentMoniker": "web\\Program.cs",
+              "ToolTip": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\GT-Project-Presentation-sms\\GtMovie-Ticket\\web\\Program.cs",
+              "RelativeToolTip": "web\\Program.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAmwF8AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T02:25:47.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\GT-Project-Presentation-sms\\GtMovie-Ticket\\web\\appsettings.json",
+              "RelativeDocumentMoniker": "web\\appsettings.json",
+              "ToolTip": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\GT-Project-Presentation-sms\\GtMovie-Ticket\\web\\appsettings.json",
+              "RelativeToolTip": "web\\appsettings.json",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAAC8AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-19T02:24:19.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ActorServiceTest.cs",
+              "DocumentMoniker": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\GT-Project-Presentation-sms\\GtMovie-Ticket\\TestProject\\ActorServiceTest.cs",
+              "RelativeDocumentMoniker": "TestProject\\ActorServiceTest.cs",
+              "ToolTip": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\GT-Project-Presentation-sms\\GtMovie-Ticket\\TestProject\\ActorServiceTest.cs",
+              "RelativeToolTip": "TestProject\\ActorServiceTest.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAqwCIAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T03:50:27.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddToCartDto.cs",
+              "DocumentMoniker": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\GT-Project-Presentation-sms\\GtMovie-Ticket\\Application\\Dto\\AddToCartDto.cs",
+              "RelativeDocumentMoniker": "Application\\Dto\\AddToCartDto.cs",
+              "ToolTip": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\GT-Project-Presentation-sms\\GtMovie-Ticket\\Application\\Dto\\AddToCartDto.cs",
+              "RelativeToolTip": "Application\\Dto\\AddToCartDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T18:13:57.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CosmosDbRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\GT-Project-Presentation-sms\\GtMovie-Ticket\\Core\\Implementation\\CosmosDbRepository.cs",
+              "RelativeDocumentMoniker": "Core\\Implementation\\CosmosDbRepository.cs",
+              "ToolTip": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\GT-Project-Presentation-sms\\GtMovie-Ticket\\Core\\Implementation\\CosmosDbRepository.cs",
+              "RelativeToolTip": "Core\\Implementation\\CosmosDbRepository.cs",
+              "ViewState": "AQIAAFMAAAAAAAAAAAAAAFwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T09:12:28.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CosmosDbService.cs",
+              "DocumentMoniker": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\GT-Project-Presentation-sms\\GtMovie-Ticket\\Application\\Service\\Implementation\\CosmosDbService.cs",
+              "RelativeDocumentMoniker": "Application\\Service\\Implementation\\CosmosDbService.cs",
+              "ToolTip": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\GT-Project-Presentation-sms\\GtMovie-Ticket\\Application\\Service\\Implementation\\CosmosDbService.cs",
+              "RelativeToolTip": "Application\\Service\\Implementation\\CosmosDbService.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAwwDkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T02:12:58.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\GT-Project-Presentation-sms\\GtMovie-Ticket\\Core\\Entities\\Movie.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\Movie.cs",
+              "ToolTip": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\GT-Project-Presentation-sms\\GtMovie-Ticket\\Core\\Entities\\Movie.cs",
+              "RelativeToolTip": "Core\\Entities\\Movie.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T11:47:20.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UpdateMovieStatusDto.cs",
+              "DocumentMoniker": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\GT-Project-Presentation-sms\\GtMovie-Ticket\\Application\\Dto\\UpdateMovieStatusDto.cs",
+              "RelativeDocumentMoniker": "Application\\Dto\\UpdateMovieStatusDto.cs",
+              "ToolTip": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\GT-Project-Presentation-sms\\GtMovie-Ticket\\Application\\Dto\\UpdateMovieStatusDto.cs",
+              "RelativeToolTip": "Application\\Dto\\UpdateMovieStatusDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T07:53:36.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UpdateMovieDto.cs",
+              "DocumentMoniker": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\GT-Project-Presentation-sms\\GtMovie-Ticket\\Application\\Dto\\UpdateMovieDto.cs",
+              "RelativeDocumentMoniker": "Application\\Dto\\UpdateMovieDto.cs",
+              "ToolTip": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\GT-Project-Presentation-sms\\GtMovie-Ticket\\Application\\Dto\\UpdateMovieDto.cs",
+              "RelativeToolTip": "Application\\Dto\\UpdateMovieDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T17:45:33.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MovieDto.cs",
+              "DocumentMoniker": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\GT-Project-Presentation-sms\\GtMovie-Ticket\\Application\\Dto\\MovieDto.cs",
+              "RelativeDocumentMoniker": "Application\\Dto\\MovieDto.cs",
+              "ToolTip": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\GT-Project-Presentation-sms\\GtMovie-Ticket\\Application\\Dto\\MovieDto.cs",
+              "RelativeToolTip": "Application\\Dto\\MovieDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T09:51:53.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MovieCreationDto.cs",
+              "DocumentMoniker": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\GT-Project-Presentation-sms\\GtMovie-Ticket\\Application\\Dto\\MovieCreationDto.cs",
+              "RelativeDocumentMoniker": "Application\\Dto\\MovieCreationDto.cs",
+              "ToolTip": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\GT-Project-Presentation-sms\\GtMovie-Ticket\\Application\\Dto\\MovieCreationDto.cs",
+              "RelativeToolTip": "Application\\Dto\\MovieCreationDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T06:48:34.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CinemaController.cs",
+              "DocumentMoniker": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\GT-Project-Presentation-sms\\GtMovie-Ticket\\web\\Controllers\\CinemaController.cs",
+              "RelativeDocumentMoniker": "web\\Controllers\\CinemaController.cs",
+              "ToolTip": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\GT-Project-Presentation-sms\\GtMovie-Ticket\\web\\Controllers\\CinemaController.cs",
+              "RelativeToolTip": "web\\Controllers\\CinemaController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T12:45:17.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MovieImageUploadDto.cs",
+              "DocumentMoniker": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\GT-Project-Presentation-sms\\GtMovie-Ticket\\Application\\Dto\\MovieImageUploadDto.cs",
+              "RelativeDocumentMoniker": "Application\\Dto\\MovieImageUploadDto.cs",
+              "ToolTip": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\GT-Project-Presentation-sms\\GtMovie-Ticket\\Application\\Dto\\MovieImageUploadDto.cs",
+              "RelativeToolTip": "Application\\Dto\\MovieImageUploadDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T18:07:44.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PaymentService.cs",
+              "DocumentMoniker": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\GT-Project-Presentation-sms\\GtMovie-Ticket\\Application\\Service\\Implementation\\PaymentService.cs",
+              "RelativeDocumentMoniker": "Application\\Service\\Implementation\\PaymentService.cs",
+              "ToolTip": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\GT-Project-Presentation-sms\\GtMovie-Ticket\\Application\\Service\\Implementation\\PaymentService.cs",
+              "RelativeToolTip": "Application\\Service\\Implementation\\PaymentService.cs",
+              "ViewState": "AQIAAKQAAAAAAAAAAAAAALQAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T11:14:17.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "PaymentController.cs",
+              "DocumentMoniker": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\GT-Project-Presentation-sms\\GtMovie-Ticket\\web\\Controllers\\PaymentController.cs",
+              "RelativeDocumentMoniker": "web\\Controllers\\PaymentController.cs",
+              "ToolTip": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\GT-Project-Presentation-sms\\GtMovie-Ticket\\web\\Controllers\\PaymentController.cs",
+              "RelativeToolTip": "web\\Controllers\\PaymentController.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAcwCwAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T15:31:42.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\GT-Project-Presentation-sms\\GtMovie-Ticket\\web\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "web\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\GT-Project-Presentation-sms\\GtMovie-Ticket\\web\\Properties\\launchSettings.json",
+              "RelativeToolTip": "web\\Properties\\launchSettings.json",
+              "ViewState": "AQIAABYAAAAAAAAAAAAAwCQAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-19T04:05:42.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AutoMapperProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\GT-Project-Presentation-sms\\GtMovie-Ticket\\Application\\Service\\AutoMapperProfile.cs",
+              "RelativeDocumentMoniker": "Application\\Service\\AutoMapperProfile.cs",
+              "ToolTip": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\GT-Project-Presentation-sms\\GtMovie-Ticket\\Application\\Service\\AutoMapperProfile.cs",
+              "RelativeToolTip": "Application\\Service\\AutoMapperProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T07:03:01.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "MovieInfo.cs",
+              "DocumentMoniker": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\GT-Project-Presentation-sms\\GtMovie-Ticket\\Core\\Entities\\MovieInfo.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\MovieInfo.cs",
+              "ToolTip": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\GT-Project-Presentation-sms\\GtMovie-Ticket\\Core\\Entities\\MovieInfo.cs",
+              "RelativeToolTip": "Core\\Entities\\MovieInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T06:16:22.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "PaystackResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\GT-Project-Presentation-sms\\GtMovie-Ticket\\Core\\Entities\\PaystackResponse.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\PaystackResponse.cs",
+              "ToolTip": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\GT-Project-Presentation-sms\\GtMovie-Ticket\\Core\\Entities\\PaystackResponse.cs",
+              "RelativeToolTip": "Core\\Entities\\PaystackResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAYAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T02:58:49.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "PaystackData.cs",
+              "DocumentMoniker": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\GT-Project-Presentation-sms\\GtMovie-Ticket\\Core\\Entities\\PaystackData.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\PaystackData.cs",
+              "ToolTip": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\GT-Project-Presentation-sms\\GtMovie-Ticket\\Core\\Entities\\PaystackData.cs",
+              "RelativeToolTip": "Core\\Entities\\PaystackData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T02:58:01.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "PaymentResult.cs",
+              "DocumentMoniker": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\GT-Project-Presentation-sms\\GtMovie-Ticket\\Core\\Entities\\PaymentResult.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\PaymentResult.cs",
+              "ToolTip": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\GT-Project-Presentation-sms\\GtMovie-Ticket\\Core\\Entities\\PaymentResult.cs",
+              "RelativeToolTip": "Core\\Entities\\PaymentResult.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA4AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T11:16:30.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "PayStackSettings.cs",
+              "DocumentMoniker": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\GT-Project-Presentation-sms\\GtMovie-Ticket\\Application\\Service\\PayStackSettings.cs",
+              "RelativeDocumentMoniker": "Application\\Service\\PayStackSettings.cs",
+              "ToolTip": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\GT-Project-Presentation-sms\\GtMovie-Ticket\\Application\\Service\\PayStackSettings.cs",
+              "RelativeToolTip": "Application\\Service\\PayStackSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T03:25:29.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ExtensionService.cs",
+              "DocumentMoniker": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\GT-Project-Presentation-sms\\GtMovie-Ticket\\web\\Extension\\ExtensionService.cs",
+              "RelativeDocumentMoniker": "web\\Extension\\ExtensionService.cs",
+              "ToolTip": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\GT-Project-Presentation-sms\\GtMovie-Ticket\\web\\Extension\\ExtensionService.cs",
+              "RelativeToolTip": "web\\Extension\\ExtensionService.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAUwDUAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T06:57:05.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "UserClaimsMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\GT-Project-Presentation-sms\\GtMovie-Ticket\\web\\MiddleWare\\UserClaimsMiddleware.cs",
+              "RelativeDocumentMoniker": "web\\MiddleWare\\UserClaimsMiddleware.cs",
+              "ToolTip": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\GT-Project-Presentation-sms\\GtMovie-Ticket\\web\\MiddleWare\\UserClaimsMiddleware.cs",
+              "RelativeToolTip": "web\\MiddleWare\\UserClaimsMiddleware.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwCMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T10:33:14.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Core.csproj",
+              "DocumentMoniker": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\GT-Project-Presentation-sms\\GtMovie-Ticket\\Core\\Core.csproj",
+              "RelativeDocumentMoniker": "Core\\Core.csproj",
+              "ToolTip": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\GT-Project-Presentation-sms\\GtMovie-Ticket\\Core\\Core.csproj",
+              "RelativeToolTip": "Core\\Core.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-24T00:22:10.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "CartResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\GT-Project-Presentation-sms\\GtMovie-Ticket\\Application\\ResponseDto\\CartResponseDto.cs",
+              "RelativeDocumentMoniker": "Application\\ResponseDto\\CartResponseDto.cs",
+              "ToolTip": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\GT-Project-Presentation-sms\\GtMovie-Ticket\\Application\\ResponseDto\\CartResponseDto.cs",
+              "RelativeToolTip": "Application\\ResponseDto\\CartResponseDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T12:37:07.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\GT-Project-Presentation-sms\\GtMovie-Ticket\\Core\\Entities\\Cart.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\Cart.cs",
+              "ToolTip": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\GT-Project-Presentation-sms\\GtMovie-Ticket\\Core\\Entities\\Cart.cs",
+              "RelativeToolTip": "Core\\Entities\\Cart.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAmwAoAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T10:19:58.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "CartItemDto.cs",
+              "DocumentMoniker": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\GT-Project-Presentation-sms\\GtMovie-Ticket\\Application\\Dto\\CartItemDto.cs",
+              "RelativeDocumentMoniker": "Application\\Dto\\CartItemDto.cs",
+              "ToolTip": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\GT-Project-Presentation-sms\\GtMovie-Ticket\\Application\\Dto\\CartItemDto.cs",
+              "RelativeToolTip": "Application\\Dto\\CartItemDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAYAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T12:15:32.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "CartItem.cs",
+              "DocumentMoniker": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\GT-Project-Presentation-sms\\GtMovie-Ticket\\Core\\Entities\\CartItem.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\CartItem.cs",
+              "ToolTip": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\GT-Project-Presentation-sms\\GtMovie-Ticket\\Core\\Entities\\CartItem.cs",
+              "RelativeToolTip": "Core\\Entities\\CartItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T10:19:19.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "CartService.cs",
+              "DocumentMoniker": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\GT-Project-Presentation-sms\\GtMovie-Ticket\\Application\\Service\\Implementation\\CartService.cs",
+              "RelativeDocumentMoniker": "Application\\Service\\Implementation\\CartService.cs",
+              "ToolTip": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\GT-Project-Presentation-sms\\GtMovie-Ticket\\Application\\Service\\Implementation\\CartService.cs",
+              "RelativeToolTip": "Application\\Service\\Implementation\\CartService.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAAADkAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T10:39:22.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "TicketPayment.cs",
+              "DocumentMoniker": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\GT-Project-Presentation-sms\\GtMovie-Ticket\\Core\\Entities\\TicketPayment.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\TicketPayment.cs",
+              "ToolTip": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\GT-Project-Presentation-sms\\GtMovie-Ticket\\Core\\Entities\\TicketPayment.cs",
+              "RelativeToolTip": "Core\\Entities\\TicketPayment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T11:48:22.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ActorController.cs",
+              "DocumentMoniker": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\GT-Project-Presentation-sms\\GtMovie-Ticket\\web\\Controllers\\ActorController.cs",
+              "RelativeDocumentMoniker": "web\\Controllers\\ActorController.cs",
+              "ToolTip": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\GT-Project-Presentation-sms\\GtMovie-Ticket\\web\\Controllers\\ActorController.cs",
+              "RelativeToolTip": "web\\Controllers\\ActorController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T15:27:03.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ActorDto.cs",
+              "DocumentMoniker": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\GT-Project-Presentation-sms\\GtMovie-Ticket\\Application\\Dto\\ActorDto.cs",
+              "RelativeDocumentMoniker": "Application\\Dto\\ActorDto.cs",
+              "ToolTip": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\GT-Project-Presentation-sms\\GtMovie-Ticket\\Application\\Dto\\ActorDto.cs",
+              "RelativeToolTip": "Application\\Dto\\ActorDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T09:53:55.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ActorDtoz.cs",
+              "DocumentMoniker": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\GT-Project-Presentation-sms\\GtMovie-Ticket\\Application\\Dto\\ActorDtoz.cs",
+              "RelativeDocumentMoniker": "Application\\Dto\\ActorDtoz.cs",
+              "ToolTip": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\GT-Project-Presentation-sms\\GtMovie-Ticket\\Application\\Dto\\ActorDtoz.cs",
+              "RelativeToolTip": "Application\\Dto\\ActorDtoz.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T20:22:37.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\GT-Project-Presentation-sms\\GtMovie-Ticket\\Infrastructure\\Infrastructure.csproj",
+              "RelativeDocumentMoniker": "Infrastructure\\Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\GT-Project-Presentation-sms\\GtMovie-Ticket\\Infrastructure\\Infrastructure.csproj",
+              "RelativeToolTip": "Infrastructure\\Infrastructure.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-24T00:22:43.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "PaymentMethod.cs",
+              "DocumentMoniker": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\GT-Project-Presentation-sms\\GtMovie-Ticket\\Core\\Enum\\PaymentMethod.cs",
+              "RelativeDocumentMoniker": "Core\\Enum\\PaymentMethod.cs",
+              "ToolTip": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\GT-Project-Presentation-sms\\GtMovie-Ticket\\Core\\Enum\\PaymentMethod.cs",
+              "RelativeToolTip": "Core\\Enum\\PaymentMethod.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T12:42:47.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "ProducerServiceTest.cs",
+              "DocumentMoniker": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\GT-Project-Presentation-sms\\GtMovie-Ticket\\TestProject\\ProducerServiceTest.cs",
+              "RelativeDocumentMoniker": "TestProject\\ProducerServiceTest.cs",
+              "ToolTip": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\GT-Project-Presentation-sms\\GtMovie-Ticket\\TestProject\\ProducerServiceTest.cs",
+              "RelativeToolTip": "TestProject\\ProducerServiceTest.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAA8AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T03:49:46.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "ProducerService.cs",
+              "DocumentMoniker": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\GT-Project-Presentation-sms\\GtMovie-Ticket\\Application\\Service\\Implementation\\ProducerService.cs",
+              "RelativeDocumentMoniker": "Application\\Service\\Implementation\\ProducerService.cs",
+              "ToolTip": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\GT-Project-Presentation-sms\\GtMovie-Ticket\\Application\\Service\\Implementation\\ProducerService.cs",
+              "RelativeToolTip": "Application\\Service\\Implementation\\ProducerService.cs",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAQwHIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T06:25:30.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "ICosmosDbService.cs",
+              "DocumentMoniker": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\GT-Project-Presentation-sms\\GtMovie-Ticket\\Application\\Service\\Abstraction\\ICosmosDbService.cs",
+              "RelativeDocumentMoniker": "Application\\Service\\Abstraction\\ICosmosDbService.cs",
+              "ToolTip": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\GT-Project-Presentation-sms\\GtMovie-Ticket\\Application\\Service\\Abstraction\\ICosmosDbService.cs",
+              "RelativeToolTip": "Application\\Service\\Abstraction\\ICosmosDbService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T09:49:31.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "CinemaServiceTest.cs",
+              "DocumentMoniker": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\GT-Project-Presentation-sms\\GtMovie-Ticket\\TestProject\\CinemaServiceTest.cs",
+              "RelativeDocumentMoniker": "TestProject\\CinemaServiceTest.cs",
+              "ToolTip": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\GT-Project-Presentation-sms\\GtMovie-Ticket\\TestProject\\CinemaServiceTest.cs",
+              "RelativeToolTip": "TestProject\\CinemaServiceTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T03:46:07.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "ActorService.cs",
+              "DocumentMoniker": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\GT-Project-Presentation-sms\\GtMovie-Ticket\\Application\\Service\\Implementation\\ActorService.cs",
+              "RelativeDocumentMoniker": "Application\\Service\\Implementation\\ActorService.cs",
+              "ToolTip": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\GT-Project-Presentation-sms\\GtMovie-Ticket\\Application\\Service\\Implementation\\ActorService.cs",
+              "RelativeToolTip": "Application\\Service\\Implementation\\ActorService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAqwAsAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T15:00:17.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "MovieServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\GT-Project-Presentation-sms\\GtMovie-Ticket\\TestProject\\MovieServiceTests.cs",
+              "RelativeDocumentMoniker": "TestProject\\MovieServiceTests.cs",
+              "ToolTip": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\GT-Project-Presentation-sms\\GtMovie-Ticket\\TestProject\\MovieServiceTests.cs",
+              "RelativeToolTip": "TestProject\\MovieServiceTests.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAQwCMAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T03:29:51.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "CinemaService.cs",
+              "DocumentMoniker": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\GT-Project-Presentation-sms\\GtMovie-Ticket\\Application\\Service\\Implementation\\CinemaService.cs",
+              "RelativeDocumentMoniker": "Application\\Service\\Implementation\\CinemaService.cs",
+              "ToolTip": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\GT-Project-Presentation-sms\\GtMovie-Ticket\\Application\\Service\\Implementation\\CinemaService.cs",
+              "RelativeToolTip": "Application\\Service\\Implementation\\CinemaService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAqwAsAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T12:39:18.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "FileService.cs",
+              "DocumentMoniker": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\GT-Project-Presentation-sms\\GtMovie-Ticket\\Application\\Service\\Implementation\\FileService.cs",
+              "RelativeDocumentMoniker": "Application\\Service\\Implementation\\FileService.cs",
+              "ToolTip": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\GT-Project-Presentation-sms\\GtMovie-Ticket\\Application\\Service\\Implementation\\FileService.cs",
+              "RelativeToolTip": "Application\\Service\\Implementation\\FileService.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAgwCUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T04:04:12.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "MovieStatus.cs",
+              "DocumentMoniker": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\GT-Project-Presentation-sms\\GtMovie-Ticket\\Core\\Enum\\MovieStatus.cs",
+              "RelativeDocumentMoniker": "Core\\Enum\\MovieStatus.cs",
+              "ToolTip": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\GT-Project-Presentation-sms\\GtMovie-Ticket\\Core\\Enum\\MovieStatus.cs",
+              "RelativeToolTip": "Core\\Enum\\MovieStatus.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T11:53:09.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "ProducerController.cs",
+              "DocumentMoniker": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\GT-Project-Presentation-sms\\GtMovie-Ticket\\web\\Controllers\\ProducerController.cs",
+              "RelativeDocumentMoniker": "web\\Controllers\\ProducerController.cs",
+              "ToolTip": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\GT-Project-Presentation-sms\\GtMovie-Ticket\\web\\Controllers\\ProducerController.cs",
+              "RelativeToolTip": "web\\Controllers\\ProducerController.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAuwFgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T06:27:15.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "MovieResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\GT-Project-Presentation-sms\\GtMovie-Ticket\\Application\\ResponseDto\\MovieResponseDto.cs",
+              "RelativeDocumentMoniker": "Application\\ResponseDto\\MovieResponseDto.cs",
+              "ToolTip": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\GT-Project-Presentation-sms\\GtMovie-Ticket\\Application\\ResponseDto\\MovieResponseDto.cs",
+              "RelativeToolTip": "Application\\ResponseDto\\MovieResponseDto.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAqwAUAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T10:48:40.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Cinema.cs",
+              "DocumentMoniker": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\GT-Project-Presentation-sms\\GtMovie-Ticket\\Core\\Entities\\Cinema.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\Cinema.cs",
+              "ToolTip": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\GT-Project-Presentation-sms\\GtMovie-Ticket\\Core\\Entities\\Cinema.cs",
+              "RelativeToolTip": "Core\\Entities\\Cinema.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T11:48:05.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Actor.cs",
+              "DocumentMoniker": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\GT-Project-Presentation-sms\\GtMovie-Ticket\\Core\\Entities\\Actor.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\Actor.cs",
+              "ToolTip": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\GT-Project-Presentation-sms\\GtMovie-Ticket\\Core\\Entities\\Actor.cs",
+              "RelativeToolTip": "Core\\Entities\\Actor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA0AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T11:47:48.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "ProducerDtoz.cs",
+              "DocumentMoniker": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\GT-Project-Presentation-sms\\GtMovie-Ticket\\Application\\Dto\\ProducerDtoz.cs",
+              "RelativeDocumentMoniker": "Application\\Dto\\ProducerDtoz.cs",
+              "ToolTip": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\GT-Project-Presentation-sms\\GtMovie-Ticket\\Application\\Dto\\ProducerDtoz.cs",
+              "RelativeToolTip": "Application\\Dto\\ProducerDtoz.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T20:22:53.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "ActorUpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\GT-Project-Presentation-sms\\GtMovie-Ticket\\Application\\Dto\\ActorUpdateDto.cs",
+              "RelativeDocumentMoniker": "Application\\Dto\\ActorUpdateDto.cs",
+              "ToolTip": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\GT-Project-Presentation-sms\\GtMovie-Ticket\\Application\\Dto\\ActorUpdateDto.cs",
+              "RelativeToolTip": "Application\\Dto\\ActorUpdateDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T07:39:35.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "IActorService.cs",
+              "DocumentMoniker": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\GT-Project-Presentation-sms\\GtMovie-Ticket\\Application\\Service\\Abstraction\\IActorService.cs",
+              "RelativeDocumentMoniker": "Application\\Service\\Abstraction\\IActorService.cs",
+              "ToolTip": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\GT-Project-Presentation-sms\\GtMovie-Ticket\\Application\\Service\\Abstraction\\IActorService.cs",
+              "RelativeToolTip": "Application\\Service\\Abstraction\\IActorService.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAMwA4AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T07:42:38.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "CinemaDto.cs",
+              "DocumentMoniker": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\GT-Project-Presentation-sms\\GtMovie-Ticket\\Application\\Dto\\CinemaDto.cs",
+              "RelativeDocumentMoniker": "Application\\Dto\\CinemaDto.cs",
+              "ToolTip": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\GT-Project-Presentation-sms\\GtMovie-Ticket\\Application\\Dto\\CinemaDto.cs",
+              "RelativeToolTip": "Application\\Dto\\CinemaDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T09:57:03.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "IProducerService.cs",
+              "DocumentMoniker": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\GT-Project-Presentation-sms\\GtMovie-Ticket\\Application\\Service\\Abstraction\\IProducerService.cs",
+              "RelativeDocumentMoniker": "Application\\Service\\Abstraction\\IProducerService.cs",
+              "ToolTip": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\GT-Project-Presentation-sms\\GtMovie-Ticket\\Application\\Service\\Abstraction\\IProducerService.cs",
+              "RelativeToolTip": "Application\\Service\\Abstraction\\IProducerService.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAWwA4AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T06:50:51.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "ProducerDto.cs",
+              "DocumentMoniker": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\GT-Project-Presentation-sms\\GtMovie-Ticket\\Application\\Dto\\ProducerDto.cs",
+              "RelativeDocumentMoniker": "Application\\Dto\\ProducerDto.cs",
+              "ToolTip": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\GT-Project-Presentation-sms\\GtMovie-Ticket\\Application\\Dto\\ProducerDto.cs",
+              "RelativeToolTip": "Application\\Dto\\ProducerDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T09:55:21.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "UpdateProducerDto.cs",
+              "DocumentMoniker": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\GT-Project-Presentation-sms\\GtMovie-Ticket\\Application\\Dto\\UpdateProducerDto.cs",
+              "RelativeDocumentMoniker": "Application\\Dto\\UpdateProducerDto.cs",
+              "ToolTip": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\GT-Project-Presentation-sms\\GtMovie-Ticket\\Application\\Dto\\UpdateProducerDto.cs",
+              "RelativeToolTip": "Application\\Dto\\UpdateProducerDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T11:44:42.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "ProducerResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\GT-Project-Presentation-sms\\GtMovie-Ticket\\Application\\ResponseDto\\ProducerResponseDto.cs",
+              "RelativeDocumentMoniker": "Application\\ResponseDto\\ProducerResponseDto.cs",
+              "ToolTip": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\GT-Project-Presentation-sms\\GtMovie-Ticket\\Application\\ResponseDto\\ProducerResponseDto.cs",
+              "RelativeToolTip": "Application\\ResponseDto\\ProducerResponseDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T09:55:58.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "Producer.cs",
+              "DocumentMoniker": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\GT-Project-Presentation-sms\\GtMovie-Ticket\\Core\\Entities\\Producer.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\Producer.cs",
+              "ToolTip": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\GT-Project-Presentation-sms\\GtMovie-Ticket\\Core\\Entities\\Producer.cs",
+              "RelativeToolTip": "Core\\Entities\\Producer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T11:47:33.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "ResponseMoviesDto.cs",
+              "DocumentMoniker": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\GT-Project-Presentation-sms\\GtMovie-Ticket\\Application\\ResponseDto\\ResponseMoviesDto.cs",
+              "RelativeDocumentMoniker": "Application\\ResponseDto\\ResponseMoviesDto.cs",
+              "ToolTip": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\GT-Project-Presentation-sms\\GtMovie-Ticket\\Application\\ResponseDto\\ResponseMoviesDto.cs",
+              "RelativeToolTip": "Application\\ResponseDto\\ResponseMoviesDto.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAswBUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T21:48:24.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "ActorResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\GT-Project-Presentation-sms\\GtMovie-Ticket\\Application\\ResponseDto\\ActorResponseDto.cs",
+              "RelativeDocumentMoniker": "Application\\ResponseDto\\ActorResponseDto.cs",
+              "ToolTip": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\GT-Project-Presentation-sms\\GtMovie-Ticket\\Application\\ResponseDto\\ActorResponseDto.cs",
+              "RelativeToolTip": "Application\\ResponseDto\\ActorResponseDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T09:54:35.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "FileEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\GT-Project-Presentation-sms\\GtMovie-Ticket\\Core\\Entities\\FileEntity.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\FileEntity.cs",
+              "ToolTip": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\GT-Project-Presentation-sms\\GtMovie-Ticket\\Core\\Entities\\FileEntity.cs",
+              "RelativeToolTip": "Core\\Entities\\FileEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T12:13:48.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "CinemaResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\GT-Project-Presentation-sms\\GtMovie-Ticket\\Application\\ResponseDto\\CinemaResponseDto.cs",
+              "RelativeDocumentMoniker": "Application\\ResponseDto\\CinemaResponseDto.cs",
+              "ToolTip": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\GT-Project-Presentation-sms\\GtMovie-Ticket\\Application\\ResponseDto\\CinemaResponseDto.cs",
+              "RelativeToolTip": "Application\\ResponseDto\\CinemaResponseDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T10:04:19.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "TicketPurchase.cs",
+              "DocumentMoniker": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\GT-Project-Presentation-sms\\GtMovie-Ticket\\Core\\Entities\\TicketPurchase.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\TicketPurchase.cs",
+              "ToolTip": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\GT-Project-Presentation-sms\\GtMovie-Ticket\\Core\\Entities\\TicketPurchase.cs",
+              "RelativeToolTip": "Core\\Entities\\TicketPurchase.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAuwBIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T11:18:04.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "UserInfo.cs",
+              "DocumentMoniker": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\GT-Project-Presentation-sms\\GtMovie-Ticket\\web\\MiddleWare\\UserInfo.cs",
+              "RelativeDocumentMoniker": "web\\MiddleWare\\UserInfo.cs",
+              "ToolTip": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\GT-Project-Presentation-sms\\GtMovie-Ticket\\web\\MiddleWare\\UserInfo.cs",
+              "RelativeToolTip": "web\\MiddleWare\\UserInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T03:18:49.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "Genre.cs",
+              "DocumentMoniker": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\GT-Project-Presentation-sms\\GtMovie-Ticket\\Core\\Enum\\Genre.cs",
+              "RelativeDocumentMoniker": "Core\\Enum\\Genre.cs",
+              "ToolTip": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\GT-Project-Presentation-sms\\GtMovie-Ticket\\Core\\Enum\\Genre.cs",
+              "RelativeToolTip": "Core\\Enum\\Genre.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAswDUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T12:05:04.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "EnumSchemaFilter.cs",
+              "DocumentMoniker": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\GT-Project-Presentation-sms\\GtMovie-Ticket\\web\\EnumSchemaFilter.cs",
+              "RelativeDocumentMoniker": "web\\EnumSchemaFilter.cs",
+              "ToolTip": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\GT-Project-Presentation-sms\\GtMovie-Ticket\\web\\EnumSchemaFilter.cs",
+              "RelativeToolTip": "web\\EnumSchemaFilter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T08:18:47.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "FileEntityDto.cs",
+              "DocumentMoniker": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\GT-Project-Presentation-sms\\GtMovie-Ticket\\Application\\Dto\\FileEntityDto.cs",
+              "RelativeDocumentMoniker": "Application\\Dto\\FileEntityDto.cs",
+              "ToolTip": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\GT-Project-Presentation-sms\\GtMovie-Ticket\\Application\\Dto\\FileEntityDto.cs",
+              "RelativeToolTip": "Application\\Dto\\FileEntityDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T09:58:23.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "FileController.cs",
+              "DocumentMoniker": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\GT-Project-Presentation-sms\\GtMovie-Ticket\\web\\Controllers\\FileController.cs",
+              "RelativeDocumentMoniker": "web\\Controllers\\FileController.cs",
+              "ToolTip": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\GT-Project-Presentation-sms\\GtMovie-Ticket\\web\\Controllers\\FileController.cs",
+              "RelativeToolTip": "web\\Controllers\\FileController.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAYwDQAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T04:05:22.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "AzureDataLakeFileRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\GT-Project-Presentation-sms\\GtMovie-Ticket\\Infrastructure\\ADLS\\configuration\\AzureDataLakeFileRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\ADLS\\configuration\\AzureDataLakeFileRepository.cs",
+              "ToolTip": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\GT-Project-Presentation-sms\\GtMovie-Ticket\\Infrastructure\\ADLS\\configuration\\AzureDataLakeFileRepository.cs",
+              "RelativeToolTip": "Infrastructure\\ADLS\\configuration\\AzureDataLakeFileRepository.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAswFoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T13:37:25.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "DataLakeServiceExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\GT-Project-Presentation-sms\\GtMovie-Ticket\\web\\Extension\\DataLakeExtension\\DataLakeServiceExtensions.cs",
+              "RelativeDocumentMoniker": "web\\Extension\\DataLakeExtension\\DataLakeServiceExtensions.cs",
+              "ToolTip": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\GT-Project-Presentation-sms\\GtMovie-Ticket\\web\\Extension\\DataLakeExtension\\DataLakeServiceExtensions.cs",
+              "RelativeToolTip": "web\\Extension\\DataLakeExtension\\DataLakeServiceExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T02:43:56.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "IFileRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\GT-Project-Presentation-sms\\GtMovie-Ticket\\Infrastructure\\Abstraction\\IFileRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Abstraction\\IFileRepository.cs",
+              "ToolTip": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\GT-Project-Presentation-sms\\GtMovie-Ticket\\Infrastructure\\Abstraction\\IFileRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Abstraction\\IFileRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAIAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T13:42:59.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "CosmosDbSettings.cs",
+              "DocumentMoniker": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\GT-Project-Presentation-sms\\GtMovie-Ticket\\web\\CosmosFig\\CosmosDbSettings.cs",
+              "RelativeDocumentMoniker": "web\\CosmosFig\\CosmosDbSettings.cs",
+              "ToolTip": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\GT-Project-Presentation-sms\\GtMovie-Ticket\\web\\CosmosFig\\CosmosDbSettings.cs",
+              "RelativeToolTip": "web\\CosmosFig\\CosmosDbSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T06:21:55.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "CosmosDbContainers.cs",
+              "DocumentMoniker": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\GT-Project-Presentation-sms\\GtMovie-Ticket\\web\\CosmosFig\\CosmosDbContainers.cs",
+              "RelativeDocumentMoniker": "web\\CosmosFig\\CosmosDbContainers.cs",
+              "ToolTip": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\GT-Project-Presentation-sms\\GtMovie-Ticket\\web\\CosmosFig\\CosmosDbContainers.cs",
+              "RelativeToolTip": "web\\CosmosFig\\CosmosDbContainers.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAQwAUAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T06:21:50.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "CosmosDbSettings.cs",
+              "DocumentMoniker": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\GT-Project-Presentation-sms\\GtMovie-Ticket\\Infrastructure\\CosmosFig\\CosmosDbSettings.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\CosmosFig\\CosmosDbSettings.cs",
+              "ToolTip": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\GT-Project-Presentation-sms\\GtMovie-Ticket\\Infrastructure\\CosmosFig\\CosmosDbSettings.cs",
+              "RelativeToolTip": "Infrastructure\\CosmosFig\\CosmosDbSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T14:26:18.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "CosmosDbContainers.cs",
+              "DocumentMoniker": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\GT-Project-Presentation-sms\\GtMovie-Ticket\\Infrastructure\\CosmosFig\\CosmosDbContainers.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\CosmosFig\\CosmosDbContainers.cs",
+              "ToolTip": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\GT-Project-Presentation-sms\\GtMovie-Ticket\\Infrastructure\\CosmosFig\\CosmosDbContainers.cs",
+              "RelativeToolTip": "Infrastructure\\CosmosFig\\CosmosDbContainers.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAQwA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T14:26:57.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\GT-Project-Presentation-sms\\GtMovie-Ticket\\web\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "web\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\GT-Project-Presentation-sms\\GtMovie-Ticket\\web\\WeatherForecast.cs",
+              "RelativeToolTip": "web\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T03:16:50.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\GT-Project-Presentation-sms\\GtMovie-Ticket\\web\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "web\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\GT-Project-Presentation-sms\\GtMovie-Ticket\\web\\appsettings.Development.json",
+              "RelativeToolTip": "web\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-19T03:30:54.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "serviceDependencies.json",
+              "DocumentMoniker": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\GT-Project-Presentation-sms\\GtMovie-Ticket\\web\\Properties\\serviceDependencies.json",
+              "RelativeDocumentMoniker": "web\\Properties\\serviceDependencies.json",
+              "ToolTip": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\GT-Project-Presentation-sms\\GtMovie-Ticket\\web\\Properties\\serviceDependencies.json",
+              "RelativeToolTip": "web\\Properties\\serviceDependencies.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-19T04:07:26.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "StorageSettings.cs",
+              "DocumentMoniker": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\GT-Project-Presentation-sms\\GtMovie-Ticket\\Infrastructure\\ADLS\\configuration\\StorageSettings.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\ADLS\\configuration\\StorageSettings.cs",
+              "ToolTip": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\GT-Project-Presentation-sms\\GtMovie-Ticket\\Infrastructure\\ADLS\\configuration\\StorageSettings.cs",
+              "RelativeToolTip": "Infrastructure\\ADLS\\configuration\\StorageSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T13:36:32.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "PaymentStatus.cs",
+              "DocumentMoniker": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\GT-Project-Presentation-sms\\GtMovie-Ticket\\Core\\Enum\\PaymentStatus.cs",
+              "RelativeDocumentMoniker": "Core\\Enum\\PaymentStatus.cs",
+              "ToolTip": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\GT-Project-Presentation-sms\\GtMovie-Ticket\\Core\\Enum\\PaymentStatus.cs",
+              "RelativeToolTip": "Core\\Enum\\PaymentStatus.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T12:41:39.95Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:499875062:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

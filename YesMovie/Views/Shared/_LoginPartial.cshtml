@@ -1,0 +1,27 @@
+@using System.Security.Principal
+<div class="landing-page">
+    <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom">
+        <div class="container">
+            <ul class="navbar-nav">
+                @if (User.Identity?.IsAuthenticated == true)
+                {
+                    // Access claims stored in HttpContext.Items
+                    var firstName = Context.Items["GivenName"]?.ToString();
+                    var lastName = Context.Items["FamilyName"]?.ToString();
+                    var email = Context.Items["Email"]?.ToString();
+
+                    <span class="navbar-text text-dark">Welcome  (@email)</span>
+                    <li class="nav-item">
+                        <a class="nav-link text-dark" asp-area="MicrosoftIdentity" asp-controller="Account" asp-action="SignOut">Sign out</a>
+                    </li>
+                }
+                else
+                {
+                    <li class="nav-item">
+                        <a class="nav-link text-dark" asp-area="MicrosoftIdentity" asp-controller="Account" asp-action="SignIn">Sign in</a>
+                    </li>
+                }
+            </ul>
+        </div>
+    </nav>
+</div>
